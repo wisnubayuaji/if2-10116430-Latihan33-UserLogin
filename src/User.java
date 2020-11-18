@@ -1,3 +1,10 @@
+/**
+ * @author
+ * Nim  : 10116430
+ * Nama : Wisnu Bayu Aji
+ * Kelas: IF-2
+ */
+ 
 import java.util.Scanner;
 
 public class User {
